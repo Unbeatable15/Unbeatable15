@@ -47,6 +47,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Unbeatable15/Unbeatable15/output/snake.svg" alt="Snake animation" />
-
 ###
