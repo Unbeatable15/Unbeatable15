@@ -16,12 +16,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m Student At MITAOE
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on LeetCode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Unbeatable15-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya-kshatriya/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ajinkya-kshatriya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya-kshatriya/)
 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-icons/cplusplus/cplusplus-original.svg
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" alt="googlecloud" width="40" height="40"/>&nbsp;
