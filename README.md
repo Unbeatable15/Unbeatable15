@@ -16,7 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m Student At MITAOE
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on LeetCode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ajinkya-kshatriya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya-kshatriya/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ajinkyaKshatriya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya-kshatriya/)
 
 ---
 
